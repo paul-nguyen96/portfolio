@@ -42,7 +42,7 @@ const about = {
   imageSize: 400,
   message:
     "Howdy! My name is Paul Nguyen and I am a graduate from Texas A&M University. I am a self-taught full stack developer with a passion in creative problem solving, building ambitious websites & apps, and food.  ",
-  resume: "https://docs.google.com/document/d/1jmGH1DF-JZfHAo4kgZf1t5VwDm_5mewpqEztwB9lWH4/",
+  resume: "https://docs.google.com/document/d/1jmGH1DF-JZfHAo4kgZf1t5VwDm_5mewpqEztwB9lWH4/view",
 };
 
 // PROJECTS SECTION
