@@ -2,14 +2,14 @@
   <h1 align="center">Paul Nguyen's Personal Website ✨</h1>
   <p align="center">
     The personal website/portfolio of Paul Nguyen, hosted with GitHub Pages. Built using React and Bootstrap. Site URL / Demo: 
-    <a href="https://anaashrafi.com">anaashrafi.com</a>
+    <a href="https://paul-nguyen96.github.io/portfolio/">Live</a>
     <br />
   </p>
 </p>
 
 <!-- PROJECT LOGO -->
 
-[![Site preview](/public/social-image.png)](https://anaashrafi.github.io/)
+[![Site preview](/public/social-image.png)](paul-nguyen96.github.io/portfolio/)
 
 ## Technology Stack 
 

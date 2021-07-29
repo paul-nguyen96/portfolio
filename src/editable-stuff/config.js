@@ -1,3 +1,5 @@
+import React from "react";
+
 // Navigation Bar SECTION
 const navBar = {
   show: true,
@@ -41,7 +43,7 @@ const about = {
   imageLink: require("../editable-stuff/paul.jpg"),
   imageSize: 400,
   message:
-    "Howdy! My name is Paul Nguyen and I am a graduate from Texas A&M University. I am a self-taught full stack developer with a passion in creative problem solving, building ambitious websites & apps, and food.  ",
+    "Howdy! My name is Paul Nguyen and I am a graduate from Texas A&M University. I am a self-taught full stack developer with a deep interest in creative problem solving, building ambitious websites & apps, and food. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering! ",
   resume: "https://docs.google.com/document/d/1jmGH1DF-JZfHAo4kgZf1t5VwDm_5mewpqEztwB9lWH4/view",
 };
 
@@ -87,13 +89,13 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Javascript"},
-    { name: "HTML/CSS"},
-    { name: "Node.js"},
-    { name: "React.js"},
-    { name: "MongoDB"},
-    { name: "Git"},
-    { name: "GitHub"},
+    { name: <i class="fab fa-js fa-2x"></i> },
+    { name: <i class="fab fa-html5 fa-2x"></i>},
+    { name: <i class="fab fa-node fa-2x"></i>},
+    { name: <i class="fab fa-react fa-2x"></i>},
+    { name: <i class="fas fa-leaf fa-2x"></i>},
+    { name: <i class="fab fa-git fa-2x"></i>},
+    { name: <i class="fab fa-github fa-2x"></i>},
   ],
   softSkills: [
     { name: "Goal-Oriented"},
