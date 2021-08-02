@@ -7,9 +7,6 @@
   </p>
 </p>
 
-<!-- PROJECT LOGO -->
-
-[![Site preview](/public/social-image.png)](paul-nguyen96.github.io/portfolio/)
 
 ## Technology Stack 
 
